@@ -1,1 +1,8 @@
 -Erick gunawan(152018071) masuk
+<<<<<<< HEAD
+-Muhammad Dias Pratama(152018038) masuk
+=======
+erickerik
+>>>>>>> b1a9a55b110a09ae86c1e412b1c704db06d01562
+erick gunawan baru
+== DIAS PRATAMA (152018038) BARU
